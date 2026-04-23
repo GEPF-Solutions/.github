@@ -6,9 +6,9 @@ Our private services run on a single node OpenShift cluster hosted in a Proxmox 
 
 ## What we're working on
 
-- **[RMCD Webapp](https://rmcd.app)** — Telemetry dashboard for road marking fleets. Live sensor data, GPS, weather, job management and efficiency statistics. `React` `C#`
-- **[Highland Games Website](https://highland-games.gepf.at)** — Live scoring and matchup platform for the Pro Western Highland Games. `React` `C#`
-- **[GEPF Website](https://gepf.at)** — This one. `React`
+- **RMCD Webapp** `Commercial` — Telemetry dashboard for road marking fleets. Live sensor data, GPS, weather, job management and efficiency statistics. `React` `C#`
+- **[Highland Games Website](https://highland-games.gepf.at)** `Open Source` — Live scoring and matchup platform for the Pro Western Highland Games. `React` `C#`
+- **[GEPF Website](https://gepf.at)** `Open Source` — Our homepage. `React`
 
 ## Open for projects
 
